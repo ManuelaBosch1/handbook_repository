@@ -14,3 +14,6 @@ A commitment to open source development, so that platform co-ops can build new 
 
 
 if you are interested collaborating on this in any form, please get in touch!
+
+if you like to edit this knowlede and you have not worked with GitHub yet, make sure you read and understand https://guides.github.com/activities/hello-world/ before.
+
