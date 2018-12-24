@@ -1,4 +1,4 @@
-# handbook_repository
+# cooperative_platforms_handbook_repository
 collection of components of governance handbooks relevant for cooperative platforms
 
 
