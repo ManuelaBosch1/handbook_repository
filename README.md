@@ -13,4 +13,4 @@ Co-design of the platform, in which various users and marginalized persons are 
 A commitment to open source development, so that platform co-ops can build new structures of collective ownership and democratic governance internally, while lifting up other emerging cooperatives in disparate locations, who instead of having to reinvent the wheel alone, can apply the cooperative model locally through a commons of open source code.
 
 
-if you are interested collaborating on this in any form, please contact me!
+if you are interested collaborating on this in any form, please get in touch!
