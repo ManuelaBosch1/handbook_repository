@@ -1,5 +1,5 @@
 # cooperative platforms handbook repository
-collection of components of governance handbooks relevant for cooperative platforms
+collection of components for governance handbooks relevant for cooperative platforms
 
 
 this is the start of a collection of components that seem to be useful to consider for  handbooks that describe how coopeative platforms work (in terms of governance & ownership). the ideas are aiming considering the platform coop principles (source https://docs.google.com/document/d/1Amo_JsD6m5IPH7xniaiQ4Y8S2ppjvfkjJrA2K4s5Fus/edit#)
